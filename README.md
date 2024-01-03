@@ -12,7 +12,7 @@ Base Free:
 
 LilyQuad-2.1 Base (Free$/Per-Message)
 
-LilyGemini-1.5 Free (XFlow2v 148K Tokens, Flow with 2 vzCore makes it better, 248%context) (Free$/Per-Message)  (wConfig: NoRAM=true, ProvoidPrompt=true, Base=false vzcore=2volts, NaN=False PAM=false GeminiSearch=false Scaleable=false basew=true paid-c=false)
+LilyGemini-1.5 Free (Free$/Per-Message)
 
 Other Paid
 
